@@ -10,4 +10,8 @@ public class Test {
 	{
        System.out.println("Hello");
 	}
+	public void m3()
+	{
+		System.out.println("Welcome");
+	}
 }
