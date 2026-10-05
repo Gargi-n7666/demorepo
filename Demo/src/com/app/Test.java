@@ -14,4 +14,9 @@ public class Test {
 	{
 		System.out.println("Welcome");
 	}
+	
+	public void m4()
+	{
+		System.out.println("Good Bye");
+	}
 }
